@@ -1,1 +1,1 @@
-Tutorials ninja
+Tutorials ninja application automation
